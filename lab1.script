@@ -1,0 +1,13 @@
+Script started on 2017年03月17日 (週五) 21時15分51秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m gir[Kt config -l
+user.email=sid5964@gmail.com
+user.name=U99999
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git co[Klone https://github.com/U99999/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m 
+Script done on 2017年03月17日 (週五) 21時17分12秒
